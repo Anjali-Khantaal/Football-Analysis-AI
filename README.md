@@ -2,6 +2,8 @@
 
 This project demonstrates the use of machine learning, deep learning, and computer vision to build a comprehensive football analysis system. It includes object detection using YOLOv8, object tracking, team classification, and measurement of player movement, speed, and distance covered.
 
+![image](https://github.com/user-attachments/assets/91e15880-4e47-4a47-b041-510aaa8eec12)
+
 ## Learning Objectives
 
 1. **Object Detection:**
@@ -20,7 +22,5 @@ This project demonstrates the use of machine learning, deep learning, and comput
    - Track players across frames and calculate speed and distance covered.
 
 ## Inspiration
-
-![image](https://github.com/user-attachments/assets/91e15880-4e47-4a47-b041-510aaa8eec12)
 
 This project is inspired by the following YouTube video: https://www.youtube.com/watch?v=neBZ6huolkg
