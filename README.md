@@ -19,3 +19,8 @@ This project demonstrates the use of machine learning, deep learning, and comput
 5. **Player Speed Calculation:**
    - Track players across frames and calculate speed and distance covered.
 
+## Inspiration
+
+![image](https://github.com/user-attachments/assets/91e15880-4e47-4a47-b041-510aaa8eec12)
+
+This project is inspired by the following YouTube video: https://www.youtube.com/watch?v=neBZ6huolkg
